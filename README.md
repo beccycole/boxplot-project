@@ -4,4 +4,4 @@
 
 ## Iris Dataset
 
-![Iris](C:\Users\Rebecca\Iris.jng)
+![Iris](https://github.com/beccycole/boxplot-project/blob/master/iris.png)
