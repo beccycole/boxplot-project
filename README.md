@@ -6,7 +6,7 @@ The aim of this project is to explain the use of boxplots and demonstrate how th
 
 ## Repository
 
-This repository contains a jupyter notebook called boxplot-project.ipynb. To run this notebook you must have [jupyter](http://jupyter.org/) installed on your machine. Jupyter comes pre-installed with the [Anaconda](https://www.anaconda.com/) python distribution package which I would advise you to install.
+This repository contains a jupyter notebook called boxplot-project-2018.ipynb. To run this notebook you must have [jupyter](http://jupyter.org/) installed on your machine. Jupyter comes pre-installed with the [Anaconda](https://www.anaconda.com/) python distribution package which I would advise you to install.
 
 The [Iris](http://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data) dataset can also be found by clicking on the link provided.
 
